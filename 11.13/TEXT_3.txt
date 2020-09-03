@@ -1,0 +1,12 @@
+program test;
+var a;
+begin
+		a:=10;
+		while a>=0
+		do
+		begin
+			write(a);
+			a:=a-1
+		end;
+		write(-1)
+end

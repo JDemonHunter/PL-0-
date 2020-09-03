@@ -1,0 +1,15 @@
+program test;
+const a:=2,b:=3;
+var sumValue;
+	procedure sum(sumL,sumR);
+		var sumValue;
+		begin
+			sumValue:=sumL+sumR;
+			write(sumValue)
+		end
+begin
+	sumValue:=1+a;
+	write(sumValue);
+	call sum(b,4);
+	write(sumValue)
+end

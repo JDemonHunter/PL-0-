@@ -1,0 +1,16 @@
+﻿  11.13.cpp
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\translate.h(34,2): warning C4091: “typedef ”: 没有声明变量时忽略“name_item”的左侧
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(105,2): warning C4091: “typedef ”: 没有声明变量时忽略“emit_item”的左侧
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(157,10): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(156,5): warning C4102: “LAB1”: 未引用的标签
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(213,10): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(212,5): warning C4102: “LAB2”: 未引用的标签
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(283,10): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(305,19): warning C4244: “初始化”: 从“std::streamoff”转换到“unsigned int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(378,19): warning C4244: “初始化”: 从“std::streamoff”转换到“unsigned int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(1491,16): warning C4305: “=”: 从“int”到“bool”截断
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\grammer.h(1566,12): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\word.h(46,18): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\word.h(59,25): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\pl0编译器11.13\语法分析器11.19\11.13\11.13\execute.h(223,25): warning C4018: “>=”: 有符号/无符号不匹配
+  11.13.vcxproj -> D:\pl0编译器11.13\语法分析器11.19\11.13\Debug\11.13.exe

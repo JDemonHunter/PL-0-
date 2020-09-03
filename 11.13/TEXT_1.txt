@@ -1,0 +1,12 @@
+program test;
+var Lval,Rval,sumValue;
+	procedure sum(sumL,sumR);
+		begin
+			sumValue:=sumL+sumR
+		end
+begin
+	read(Lval);
+	read(Rval);
+	call sum(Lval,Rval);
+	write(sumValue)
+end

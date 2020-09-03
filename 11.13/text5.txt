@@ -1,0 +1,26 @@
+program test;
+const consta:=-15, constb:=7, constc:=8;
+var vara,vare;
+	procedure P1(temp0,temp1);
+		var varc;
+			procedure P11(temp2,temp3);
+			const constd:=8;
+			var vard;
+			begin
+				call P1(0,2);
+				varc:=vara*(consta+constc)
+			end
+		begin
+			call P1(0,1);
+			varc:=temp0+temp1
+		end;
+	procedure P2(temp4,temp5);
+		const conste:=20;
+		var varf;
+		begin
+			call P1(0,1);
+			varf:=temp5
+		end
+begin
+	call P1(3+5,1+2+3)
+end
